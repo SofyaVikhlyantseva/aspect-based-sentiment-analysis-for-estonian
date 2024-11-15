@@ -11,5 +11,6 @@ This repository contains code and datasets for performing aspect-based sentiment
 **add later**
 
 ## Credits
-Scientific supervisor — Eduard Stanislavovich Klyshinsky, Associate Professor at the School of Linguistics 
+Scientific supervisor — Eduard Stanislavovich Klyshinsky, Associate Professor at the School of Linguistics
+
 Scientific consultant — Anna Aleksandrovna Aksenova, NLP Researcher
