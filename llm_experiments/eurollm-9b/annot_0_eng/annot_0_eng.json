@@ -1,0 +1,5216 @@
+[
+    {
+        "review_text": "Jäime külastusega väga rahule, toit maitses imeliselt. Väga hea mõte oli jõulude puhul lisaks jõuluroogadele lisada valikusse soe astelpaju naps :) Soovitame külastada :)",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 31,
+                    "end": 35,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 36,
+                    "end": 53,
+                    "text": "maitses imeliselt"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 94,
+                    "end": 108,
+                    "text": "jõuluroogadele"
+                },
+                "opinion_term": {
+                    "start": 109,
+                    "end": 144,
+                    "text": "lisada valikusse soe astelpaju naps"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Teie juures on alati meeldiv - hubane miljöö, maitsev toit ning sõbralik ja abivalmis teenindus. Lisaks väga hästi valmistatud ning seeläbi väga maitsvale toidule, on see ka kunstipäraselt serveeritud. Maitsekas nauding nii kehale, kui vaimule!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 31,
+                    "end": 44,
+                    "text": "hubane miljöö"
+                },
+                "opinion_term": {
+                    "start": 21,
+                    "end": 28,
+                    "text": "meeldiv"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 46,
+                    "end": 58,
+                    "text": "maitsev toit"
+                },
+                "opinion_term": {
+                    "start": 46,
+                    "end": 53,
+                    "text": "maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "sõbralik ja abivaldis teenindus"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "sõbralik ja abivaldis"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 104,
+                    "end": 126,
+                    "text": "väga hästi valmistatud"
+                },
+                "opinion_term": {
+                    "start": 104,
+                    "end": 126,
+                    "text": "väga hästi valmistatud"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "väga maitsav"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "väga maitsav"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 174,
+                    "end": 200,
+                    "text": "kunstipäraselt serveeritud"
+                },
+                "opinion_term": {
+                    "start": 174,
+                    "end": 200,
+                    "text": "kunstipäraselt serveeritud"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "maitsekas nauding"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "maitsekas nauding"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 224,
+                    "end": 230,
+                    "text": "kehale"
+                },
+                "opinion_term": {
+                    "start": 224,
+                    "end": 230,
+                    "text": "kehale"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 236,
+                    "end": 243,
+                    "text": "vaimule"
+                },
+                "opinion_term": {
+                    "start": 236,
+                    "end": 243,
+                    "text": "vaimule"
+                },
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "review_text": "Teenindus, toit, personal ja restoran olid suurepärased,! Veidi häiris meeleolu joobes indiviidid kõrval lauas. Soovitaksin personalil mitte teenindada ebaadekvaatseid isikuid.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 43,
+                    "end": 55,
+                    "text": "suurepärased"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 11,
+                    "end": 15,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 43,
+                    "end": 55,
+                    "text": "suurepärased"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 17,
+                    "end": 25,
+                    "text": "personal"
+                },
+                "opinion_term": {
+                    "start": 43,
+                    "end": 55,
+                    "text": "suurepärased"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 29,
+                    "end": 37,
+                    "text": "restoran"
+                },
+                "opinion_term": {
+                    "start": 43,
+                    "end": 55,
+                    "text": "suurepärased"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 71,
+                    "end": 79,
+                    "text": "meeleolu"
+                },
+                "opinion_term": {
+                    "start": 64,
+                    "end": 70,
+                    "text": "häiris"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 80,
+                    "end": 86,
+                    "text": "joobes"
+                },
+                "opinion_term": {
+                    "start": 87,
+                    "end": 97,
+                    "text": "indiviidid"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 17,
+                    "end": 25,
+                    "text": "personal"
+                },
+                "opinion_term": {
+                    "start": 152,
+                    "end": 167,
+                    "text": "ebaadekvaatseid"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Armsa ja hubase atmosfääriga restoran külastamaks nii päevasel ajal kui ka õhtul. Toidud on maitsvad ja teenindus suurepärane. Mõnus koht, kus tunned, et oled oodatud nagu kodus",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 16,
+                    "end": 25,
+                    "text": "atmosfäär"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "armas ja hubane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 104,
+                    "end": 113,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 114,
+                    "end": 125,
+                    "text": "suurepärane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 133,
+                    "end": 137,
+                    "text": "koht"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "mõnus"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 104,
+                    "end": 113,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 114,
+                    "end": 125,
+                    "text": "suurepärane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 133,
+                    "end": 137,
+                    "text": "koht"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "mõnus"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 133,
+                    "end": 137,
+                    "text": "koht"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "kodune"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Olustik ja meeleolu olid seal suurepärane. Teenindus tipp tasemel ja teenindaja teadis täpselt mida pakkuda ja oskas soovitada. Klienti suhtutakse nagu pereliikmesse.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "olustik ja meeleolu"
+                },
+                "opinion_term": {
+                    "start": 30,
+                    "end": 41,
+                    "text": "suurepärane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 53,
+                    "end": 65,
+                    "text": "tipp tasemel"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 69,
+                    "end": 79,
+                    "text": "teenindaja"
+                },
+                "opinion_term": {
+                    "start": 80,
+                    "end": 126,
+                    "text": "teadis täpselt mida pakkuda ja oskas soovitada"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "klienti suhtumine"
+                },
+                "opinion_term": {
+                    "start": 147,
+                    "end": 165,
+                    "text": "nagu pereliikmesse"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Toit vastas hinnale ja kvaliteedile. Nõud olid väga ilusad.\nTeenindus - algul oli pisut tagasishoidlik, aga hiljem teenindaja avanes.\nTublid! :)",
+        "error": "No JSON object found in the model output.",
+        "raw_output": ""
+    },
+    {
+        "review_text": "Segadust tekitas broneerimine - sain aru justkui oleks mulle broneeritud aeg 14.30 ja pean minema selleks ajaks. Tegelikult aga oleksin võinud ka varem minna. Milleks siis see kellaaeg broneerimisel?",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 17,
+                    "end": 29,
+                    "text": "broneerimine"
+                },
+                "opinion_term": {
+                    "start": 0,
+                    "end": 16,
+                    "text": "Segadust tekitas"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 17,
+                    "end": 29,
+                    "text": "broneerimine"
+                },
+                "opinion_term": {
+                    "start": 128,
+                    "end": 157,
+                    "text": "oleksin võinud ka varem minna"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Super hea toit ja hea teenindus, kuid ootasime natuke liiga kaua oma teist rooga kui pool laudkond olid juba toidu kätte saanud. Ehk oleks piisanud ette teatamast, et pooltel tuleb oodata 25 min veel oma toidu. Muidu super hea kõik!",
+        "triplets": []
+    },
+    {
+        "review_text": "Kahjuks sattusime väga ebameeldiva teenindaja lauda, kes pööritas silmi kui ütlesime, et toidu 1 koostisosa pole päris meie maitsele. Pigem väga ülbe ja arrogantne tädi sattus olema.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 46,
+                    "end": 51,
+                    "text": "lauda"
+                },
+                "opinion_term": {
+                    "start": 145,
+                    "end": 168,
+                    "text": "ülbe ja arrogantne tädi"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 89,
+                    "end": 107,
+                    "text": "toidu 1 koostisosa"
+                },
+                "opinion_term": {
+                    "start": 119,
+                    "end": 132,
+                    "text": "meie maitsele"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Hinnang on pandud keskmiselt külaliste kogemustele. Minul isiklikult aga oli mitu apsakat toidu valimisega, sest neid roogasid ei olnud tegelikult saadaval. Pärast küll pandi kokku mingitest osadest vegan toit, kuid ausalt öeldes jäi see siiski keskmise kvaliteedi raamesse.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 205,
+                    "end": 209,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "apsakad"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 205,
+                    "end": 209,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "kvaliteet"
+                },
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "review_text": "Kõik oli väga meeldiv ja maitsev. Ka oli rõõm muusikuid taas näha ja kuulda. Toomas Tootsi teenindus oli suurepärane nagu alati.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 14,
+                    "end": 21,
+                    "text": "meeldiv"
+                },
+                "opinion_term": {
+                    "start": 14,
+                    "end": 21,
+                    "text": "meeldiv"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 25,
+                    "end": 32,
+                    "text": "maitsev"
+                },
+                "opinion_term": {
+                    "start": 25,
+                    "end": 32,
+                    "text": "maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 91,
+                    "end": 100,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 105,
+                    "end": 116,
+                    "text": "suurepärane"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Külastasime kolleegidega lähenevate jõulude tähistamiseks esmakordselt Fotografiska restorani,oli väga maitsev toit, meeleolukas teenindus(itaalia noormees) ja ilus vaade .\nSiiski arvan,et Eestis peaks teenindaja oskama veidi rohkem eesti keelt,kuigi pean ka möönma,et olime ise inglisekeelse teenindusega nõus(mitte me küll kõik)",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 111,
+                    "end": 115,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 98,
+                    "end": 110,
+                    "text": "väga maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 129,
+                    "end": 138,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 117,
+                    "end": 128,
+                    "text": "meeleolukas"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 165,
+                    "end": 170,
+                    "text": "vaade"
+                },
+                "opinion_term": {
+                    "start": 160,
+                    "end": 164,
+                    "text": "ilus"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 233,
+                    "end": 243,
+                    "text": "eesti keel"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "peaks oskama"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 202,
+                    "end": 212,
+                    "text": "teenindaja"
+                },
+                "opinion_term": {
+                    "start": 213,
+                    "end": 219,
+                    "text": "oskama"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 233,
+                    "end": 243,
+                    "text": "eesti keel"
+                },
+                "opinion_term": {
+                    "start": 233,
+                    "end": 244,
+                    "text": "eesti keelt"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "inglisekeelne teenindus"
+                },
+                "opinion_term": {
+                    "start": 279,
+                    "end": 305,
+                    "text": "inglisekeelse teenindusega"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "NOA peakoka saalis on leitud üles suurepärased kombinatsioonid, mille peale ei suudaks koheselt tulla, kuid mis sobituvad kokku lausa suurepäraselt!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 34,
+                    "end": 62,
+                    "text": "suurepärased kombinatsioonid"
+                },
+                "opinion_term": {
+                    "start": 22,
+                    "end": 33,
+                    "text": "leitud üles"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 34,
+                    "end": 62,
+                    "text": "suurepärased kombinatsioonid"
+                },
+                "opinion_term": {
+                    "start": 112,
+                    "end": 127,
+                    "text": "sobituvad kokku"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 34,
+                    "end": 62,
+                    "text": "suurepärased kombinatsioonid"
+                },
+                "opinion_term": {
+                    "start": 128,
+                    "end": 147,
+                    "text": "lausa suurepäraselt"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Väga meeldiv ja hubane atmosfäär.\nKõik on väga ilus ja maitsev sõbralik ja tähelepanelik. Soovitame teie restorani ja tuleme kindlasti uuesti.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "atmospher"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "väga meeldiv ja hubane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 42,
+                    "end": 62,
+                    "text": "väga ilus ja maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 63,
+                    "end": 88,
+                    "text": "sõbralik ja tähelepanelik"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 105,
+                    "end": 113,
+                    "text": "restoran"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "soovitame"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 105,
+                    "end": 113,
+                    "text": "restoran"
+                },
+                "opinion_term": {
+                    "start": 118,
+                    "end": 141,
+                    "text": "tuleme kindlasti uuesti"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Toit oli täitsa maitsetu, tellisime eelroaks mozarellat ja veiseliha carpacciod, pearoaks oli part ja seabas, kala oli veel ok aga part oli .....",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 45,
+                    "end": 55,
+                    "text": "mozarellat"
+                },
+                "opinion_term": {
+                    "start": 16,
+                    "end": 24,
+                    "text": "maitsetu"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 59,
+                    "end": 68,
+                    "text": "veiseliha"
+                },
+                "opinion_term": {
+                    "start": 16,
+                    "end": 24,
+                    "text": "maitsetu"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 94,
+                    "end": 98,
+                    "text": "part"
+                },
+                "opinion_term": {
+                    "start": 136,
+                    "end": 145,
+                    "text": "oli ....."
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Toredalt hubane keskkond ja väga hea söök - maitsestatud hästi, söök toodi kiiresti lauda, osati soovitada ja oli võimalik osa komponente ära jätta söögist.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 9,
+                    "end": 24,
+                    "text": "hubane keskkond"
+                },
+                "opinion_term": {
+                    "start": 28,
+                    "end": 41,
+                    "text": "väga hea söök"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 28,
+                    "end": 41,
+                    "text": "väga hea söök"
+                },
+                "opinion_term": {
+                    "start": 44,
+                    "end": 62,
+                    "text": "maitsestatud hästi"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 28,
+                    "end": 41,
+                    "text": "väga hea söök"
+                },
+                "opinion_term": {
+                    "start": 64,
+                    "end": 89,
+                    "text": "söök toodi kiiresti lauda"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 28,
+                    "end": 41,
+                    "text": "väga hea söök"
+                },
+                "opinion_term": {
+                    "start": 91,
+                    "end": 106,
+                    "text": "osati soovitada"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 28,
+                    "end": 41,
+                    "text": "väga hea söök"
+                },
+                "opinion_term": {
+                    "start": 110,
+                    "end": 155,
+                    "text": "oli võimalik osa komponente ära jätta söögist"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Linnupesa magustoidul on tehtud muudatus. Põhi, millel magustoit asetseb oli algselt karamellist aga nüüd on rohkem nagu “saialine” korvike. Enne oli magustoit maitsvam ja erilisem. Uus korvikesega magustoit on nüüd nagu iga teine tart.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "põhi, millel magustoit asetseb"
+                },
+                "opinion_term": {
+                    "start": 198,
+                    "end": 235,
+                    "text": "magustoit on nüüd nagu iga teine tart"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 55,
+                    "end": 64,
+                    "text": "magustoit"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "magustoit oli maitsvam ja erilisem"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Tore oleks kui te menüüd uuesti trükiksite.\nTekst on paberilt maha kulunud ja hämaras valguses praktiliselt loetamatu. Nii eesti kui inglise keelsel menüül sama probleem.\nLugesime menüüd telefoni taskulabi valgel :)",
+        "error": "No JSON object found in the model output.",
+        "raw_output": ""
+    },
+    {
+        "review_text": "Menüü pigem lühike, samas kõik söödud toidud olid suurepärased. Lapsed jooksid hoovis ringi ja leidsid endale ise tegevust samal ajal kui täiskasvanud toitu nautisid. Suurimad tänud kauni õhtu eest!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 5,
+                    "text": "Menüü"
+                },
+                "opinion_term": {
+                    "start": 12,
+                    "end": 18,
+                    "text": "lühike"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 38,
+                    "end": 44,
+                    "text": "toidud"
+                },
+                "opinion_term": {
+                    "start": 50,
+                    "end": 62,
+                    "text": "suurepärased"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 188,
+                    "end": 192,
+                    "text": "õhtu"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "kaunis"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Mulle väga meeldib Kolm Sibulat ja eriti sealse personali suhtumine ning olek. Kõik nad on väga tähelepanelikud ning mõnusa olekuga, samas ei jäta suhtlemine kunstlikult üle pakutud muljet, mõjub siiralt.\nAitäh järjekordse nauditava kogemuse eest!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 48,
+                    "end": 67,
+                    "text": "personali suhtumine"
+                },
+                "opinion_term": {
+                    "start": 91,
+                    "end": 111,
+                    "text": "väga tähelepanelikud"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "personali olek"
+                },
+                "opinion_term": {
+                    "start": 117,
+                    "end": 131,
+                    "text": "mõnusa olekuga"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 48,
+                    "end": 67,
+                    "text": "personali suhtumine"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "ei jäta kunstlikult üle pakutud muljet"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 48,
+                    "end": 67,
+                    "text": "personali suhtumine"
+                },
+                "opinion_term": {
+                    "start": 190,
+                    "end": 203,
+                    "text": "mõjub siiralt"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Kõik oli super, ainus probleem oli porine ja pine tee restoranini jõudmiseks. Saan aru, et sellega pole kerge tegeleda. Jõudu elamuste pakkumisel!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 4,
+                    "text": "Kõik"
+                },
+                "opinion_term": {
+                    "start": 9,
+                    "end": 14,
+                    "text": "super"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 35,
+                    "end": 76,
+                    "text": "porine ja pine tee restoranini jõudmiseks"
+                },
+                "opinion_term": {
+                    "start": 16,
+                    "end": 30,
+                    "text": "ainus probleem"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Natuke häiris kui lärmakas restoran õhtul muutus, väga palju taustamüra ja raske parneriga vestlust pidada kuid kui istuda tahapoole ja privaatsemasse nurka, siis usun et sellest probleemi ei ole. Toit oli küll lihtsalt imeline.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 18,
+                    "end": 35,
+                    "text": "lärmakas restoran"
+                },
+                "opinion_term": {
+                    "start": 7,
+                    "end": 13,
+                    "text": "häiris"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 18,
+                    "end": 35,
+                    "text": "lärmakas restoran"
+                },
+                "opinion_term": {
+                    "start": 42,
+                    "end": 48,
+                    "text": "muutus"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 18,
+                    "end": 35,
+                    "text": "lärmakas restoran"
+                },
+                "opinion_term": {
+                    "start": 61,
+                    "end": 71,
+                    "text": "taustamüra"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 18,
+                    "end": 35,
+                    "text": "lärmakas restoran"
+                },
+                "opinion_term": {
+                    "start": 75,
+                    "end": 106,
+                    "text": "raske parneriga vestlust pidada"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 18,
+                    "end": 35,
+                    "text": "lärmakas restoran"
+                },
+                "opinion_term": {
+                    "start": 116,
+                    "end": 156,
+                    "text": "istuda tahapoole ja privaatsemasse nurka"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 18,
+                    "end": 35,
+                    "text": "lärmakas restoran"
+                },
+                "opinion_term": {
+                    "start": 179,
+                    "end": 188,
+                    "text": "probleemi"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 18,
+                    "end": 35,
+                    "text": "lärmakas restoran"
+                },
+                "opinion_term": {
+                    "start": 197,
+                    "end": 201,
+                    "text": "Toit"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 18,
+                    "end": 35,
+                    "text": "lärmakas restoran"
+                },
+                "opinion_term": {
+                    "start": 220,
+                    "end": 227,
+                    "text": "imeline"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Suured palavad tänud personali oskannale. Klienditeenindus kõrgel tasrmel. Toit suurepärane. Eriti tore oli loosimises osaleda ja kingiks saada Tallink Spa keskus . Tore oli❤️",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "klienditeenindus"
+                },
+                "opinion_term": {
+                    "start": 59,
+                    "end": 73,
+                    "text": "kõrgel tasrmel"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 80,
+                    "end": 91,
+                    "text": "suurepärane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 108,
+                    "end": 118,
+                    "text": "loosimises"
+                },
+                "opinion_term": {
+                    "start": 119,
+                    "end": 124,
+                    "text": "osale"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 144,
+                    "end": 162,
+                    "text": "Tallink Spa keskus"
+                },
+                "opinion_term": {
+                    "start": 130,
+                    "end": 143,
+                    "text": "kingiks saada"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 165,
+                    "end": 169,
+                    "text": "Tore"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "olema"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Kõige parema elamuse andis toit, mis oli otsast lõpuni ilus, huvitav ja maitsev! Teendidusele pole ka midagi ette heita. Super!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 27,
+                    "end": 31,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 55,
+                    "end": 79,
+                    "text": "ilus, huvitav ja maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "teendidusele pole ka midagi ette heita"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Väga hubane ja ilus resto. Toit maitsev, kuid vau efekt puudus. Igav veinikaart. Teenindus veidi aeglane ja mitte eriti tähelepanelik, samas maja oli sel õhtul täis.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 25,
+                    "text": "Väga hubane ja ilus resto"
+                },
+                "opinion_term": {
+                    "start": 0,
+                    "end": 19,
+                    "text": "Väga hubane ja ilus"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 27,
+                    "end": 39,
+                    "text": "Toit maitsev"
+                },
+                "opinion_term": {
+                    "start": 32,
+                    "end": 39,
+                    "text": "maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 64,
+                    "end": 79,
+                    "text": "Igav veinikaart"
+                },
+                "opinion_term": {
+                    "start": 64,
+                    "end": 68,
+                    "text": "Igav"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 81,
+                    "end": 133,
+                    "text": "Teenindus veidi aeglane ja mitte eriti tähelepanelik"
+                },
+                "opinion_term": {
+                    "start": 81,
+                    "end": 90,
+                    "text": "Teenindus"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Vahes maja oli sel õhtul täis"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Vahes"
+                },
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "review_text": "Koht hakkab väsima. Vaja oleks väikest värskendust. Toidud on head, kuid on maitsetest väike langus võrreldes paari aasta taguste maitsetega.\nNn pannikartulitega tuleb rohkem vaeva näha, maitsestamata ja kuna soojendatakse, siis välimus pole restorani vääriline. Kohalik limonaad on super.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 73,
+                    "end": 140,
+                    "text": "on maitsetest väike langus võrreldes paari aasta taguste maitsetega"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "pannikartulid"
+                },
+                "opinion_term": {
+                    "start": 187,
+                    "end": 261,
+                    "text": "maitsestamata ja kuna soojendatakse, siis välimus pole restorani vääriline"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 271,
+                    "end": 279,
+                    "text": "limonaad"
+                },
+                "opinion_term": {
+                    "start": 283,
+                    "end": 288,
+                    "text": "super"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Teenindajad super rõõmsameelsed, vastutulelikud ja professionaalsed. Oskavad panna igal külastusel alati eriliselt tundma. Toiduelamus on ka üldiselt hea. Vana koht oli väga hubane ja armas aga usun, et sellise kollektiiviiga suudavad ka iga uue koha teha sama mõnusaks!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 11,
+                    "text": "Teenindajad"
+                },
+                "opinion_term": {
+                    "start": 12,
+                    "end": 67,
+                    "text": "super rõõmsameelsed, vastutulelikud ja professionaalsed"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 11,
+                    "text": "Teenindajad"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "oskavad panna igal külastusel alati eriliselt tundma"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 11,
+                    "text": "Teenindajad"
+                },
+                "opinion_term": {
+                    "start": 123,
+                    "end": 153,
+                    "text": "Toiduelamus on ka üldiselt hea"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 155,
+                    "end": 164,
+                    "text": "Vana koht"
+                },
+                "opinion_term": {
+                    "start": 169,
+                    "end": 189,
+                    "text": "väga hubane ja armas"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 155,
+                    "end": 164,
+                    "text": "Vana koht"
+                },
+                "opinion_term": {
+                    "start": 203,
+                    "end": 270,
+                    "text": "sellise kollektiiviiga suudavad ka iga uue koha teha sama mõnusaks!"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Jäime rahule.\nKuid - teenindajaid tundus saalis olema mitu, jäid siiski kasutatud taldrikud, klaasid lauale nii, et pidime klaasid ise ära viima ja taldrikud üksteise otsa kuhjama.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 12,
+                    "text": "Jäime rahule"
+                },
+                "opinion_term": {
+                    "start": 0,
+                    "end": 12,
+                    "text": "Jäime rahule"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 21,
+                    "end": 58,
+                    "text": "teenindajaid tundus saalis olema mitu"
+                },
+                "opinion_term": {
+                    "start": 21,
+                    "end": 58,
+                    "text": "teenindajaid tundus saalis olema mitu"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 60,
+                    "end": 91,
+                    "text": "jäid siiski kasutatud taldrikud"
+                },
+                "opinion_term": {
+                    "start": 60,
+                    "end": 91,
+                    "text": "jäid siiski kasutatud taldrikud"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 93,
+                    "end": 111,
+                    "text": "klaasid lauale nii"
+                },
+                "opinion_term": {
+                    "start": 93,
+                    "end": 111,
+                    "text": "klaasid lauale nii"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 116,
+                    "end": 144,
+                    "text": "pidime klaasid ise ära viima"
+                },
+                "opinion_term": {
+                    "start": 116,
+                    "end": 144,
+                    "text": "pidime klaasid ise ära viima"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 145,
+                    "end": 179,
+                    "text": "ja taldrikud üksteise otsa kuhjama"
+                },
+                "opinion_term": {
+                    "start": 145,
+                    "end": 179,
+                    "text": "ja taldrikud üksteise otsa kuhjama"
+                },
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "review_text": "Suurepärane toidu- ja joogivalik brunchiks, ja lisaks ka väga maitsev! Väga meeldiv istekoht ja keskkond (laud 4). Ja oluline üllatus oli õhupallide meister - laps oli väga rõõmus ja meie ka. Ideaalne isadepäev!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 62,
+                    "end": 69,
+                    "text": "maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 22,
+                    "end": 32,
+                    "text": "joogivalik"
+                },
+                "opinion_term": {
+                    "start": 57,
+                    "end": 69,
+                    "text": "väga maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "laua 4 istekoht ja keskkond"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "väga meeldiv"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 138,
+                    "end": 156,
+                    "text": "õhupallide meister"
+                },
+                "opinion_term": {
+                    "start": 118,
+                    "end": 133,
+                    "text": "oluline üllatus"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Meie ootused kogu Mon Repos restorani suhtes olid märgatavalt kõrgemad.\nSaali interjöör mõjus argisena. Restorani aiaosa ( taimed ja istutused) jättis hooldamata mulje ning vajaksid osava aedniku kätt. Päikesevarjud vajaksid puhastamist.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "saali interjöör"
+                },
+                "opinion_term": {
+                    "start": 88,
+                    "end": 102,
+                    "text": "mõjus argisena"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "restorani aiaosa"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "jätis hooldamata mulje"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "päikesevarjud"
+                },
+                "opinion_term": {
+                    "start": 216,
+                    "end": 236,
+                    "text": "vajaksid puhastamist"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Atmosfäär oli muidu väga kena, aga sattusime istuma laste ja leti vahele, kus oli pisut palju müra. Aga muidu oli väga kena",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "atmosfäär"
+                },
+                "opinion_term": {
+                    "start": 20,
+                    "end": 29,
+                    "text": "väga kena"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 45,
+                    "end": 51,
+                    "text": "istuma"
+                },
+                "opinion_term": {
+                    "start": 52,
+                    "end": 72,
+                    "text": "laste ja leti vahele"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 94,
+                    "end": 98,
+                    "text": "müra"
+                },
+                "opinion_term": {
+                    "start": 82,
+                    "end": 93,
+                    "text": "pisut palju"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Suurepärane toit. Menüü on eriline ja huvitav. Kvaliteet väga hea. Klaasiga veini valik võik olla suurem.\nTeenindus natuke oli hädas, unustati joogi tellimus ja ise pidi kutsuma, et tähelepanu saada aga kokku oli üldmulje väga hea ja super koht",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 12,
+                    "end": 16,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "suurepärane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "menüü"
+                },
+                "opinion_term": {
+                    "start": 27,
+                    "end": 45,
+                    "text": "eriline ja huvitav"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "kvaliteet"
+                },
+                "opinion_term": {
+                    "start": 57,
+                    "end": 65,
+                    "text": "väga hea"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 76,
+                    "end": 87,
+                    "text": "veini valik"
+                },
+                "opinion_term": {
+                    "start": 88,
+                    "end": 104,
+                    "text": "võik olla suurem"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 116,
+                    "end": 132,
+                    "text": "natuke oli hädas"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 213,
+                    "end": 221,
+                    "text": "üldmulje"
+                },
+                "opinion_term": {
+                    "start": 222,
+                    "end": 244,
+                    "text": "väga hea ja super koht"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Istusime õues, inimesi väga polnud. Kohviku melu jäi puudu. Ma kindlasti ei ütle, et ärge minge, sest toit ja teeninus oli tõesti suurepärane.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 13,
+                    "text": "Istusime õues"
+                },
+                "opinion_term": {
+                    "start": 60,
+                    "end": 95,
+                    "text": "Ma kindlasti ei ütle, et ärge minge"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 36,
+                    "end": 58,
+                    "text": "Kohviku melu jäi puudu"
+                },
+                "opinion_term": {
+                    "start": 60,
+                    "end": 95,
+                    "text": "Ma kindlasti ei ütle, et ärge minge"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 102,
+                    "end": 118,
+                    "text": "toit ja teeninus"
+                },
+                "opinion_term": {
+                    "start": 97,
+                    "end": 141,
+                    "text": "sest toit ja teeninus oli tõesti suurepärane"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Mille kallal natuke noriks on soe toit.Kahjuks pole saanud korduvalt külastades teie brunche sõna otseses mõttes sooja toitu.Kas on see olnud külm või vaevu leige.Muid etteheiteid pole,kõik super Aitäh",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 30,
+                    "end": 38,
+                    "text": "soe toit"
+                },
+                "opinion_term": {
+                    "start": 30,
+                    "end": 38,
+                    "text": "soe toit"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 93,
+                    "end": 124,
+                    "text": "sõna otseses mõttes sooja toitu"
+                },
+                "opinion_term": {
+                    "start": 93,
+                    "end": 124,
+                    "text": "sõna otseses mõttes sooja toitu"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 142,
+                    "end": 162,
+                    "text": "külm või vaevu leige"
+                },
+                "opinion_term": {
+                    "start": 142,
+                    "end": 162,
+                    "text": "külm või vaevu leige"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 185,
+                    "end": 195,
+                    "text": "kõik super"
+                },
+                "opinion_term": {
+                    "start": 185,
+                    "end": 195,
+                    "text": "kõik super"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Ma paneks sellele restoranile nimeks \"Näljamängud\"! Kes esimesena toiduni jõuab, see sööb. Neile, kes seisid järjekorras 20, siis vabandust, te ei saanud enam süüa.",
+        "error": "No JSON object found in the model output.",
+        "raw_output": "Here's the annotated JSON:\n\n{\n    \"review_text\": \"Ma paneks sellele restoranile nimeks \"Näljamängud\"! Kes esimesena toiduni jõuab, see sööb. Neile, kes seisid järjekorras 20, siis vabandust, te ei saanud enam süüa.\",\n    \"triplets\": [\n        {\n            \"aspect_term\": \"järjekorras\",\n            \"opinion_term\": \"seisid\",\n            \"polarity\": \"negative\"\n        },\n        {\n            \"aspect_term\": \"toit\",\n            \"opinion_term\": \"jõuab\",\n            \"polarity\": \"positive\"\n        },\n        {\n            \"aspect_term\": \"toit\",\n            \"opinion_term\": \"sööb\",\n            \"polarity\": \"positive\"\n        },\n        {\n            \"aspect_term\": \"toit\",\n            \"opinion_term\": \"said\",\n            \"polarity\": \"negative\"\n        }\n    ]\n}\n\nExplanation:\n- \"järjekorras\" is an aspect term referring to the restaurant's service.\n- \"seisid\" is an opinion term expressing a negative sentiment towards the restaurant's service.\n- \"toit\" is an aspect term referring to the restaurant's food.\n- \"jõuab\" is an opinion term expressing a positive sentiment towards the restaurant's food.\n- \"sööb\" is an opinion term expressing a positive sentiment towards the restaurant's food.\n- \"said\" is an opinion term expressing a negative sentiment towards the restaurant's food.\n\nNote: This is just one possible annotation, and there may be other valid annotations depending on the specific context and interpretation of the review text."
+    },
+    {
+        "review_text": "Imeline hommikusook super toreda ja naeratava teenendaja saatel. Interjoorile on hasti palju tahelepanu pooratud ja tulemus on suureparane. Kindlasti kulastan taas! Aitah :)",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 8,
+                    "end": 19,
+                    "text": "hommikusook"
+                },
+                "opinion_term": {
+                    "start": 20,
+                    "end": 63,
+                    "text": "super toreda ja naeratava teenendaja saatel"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "interjoor"
+                },
+                "opinion_term": {
+                    "start": 81,
+                    "end": 138,
+                    "text": "hasti palju tahelepanu pooratud ja tulemus on suureparane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 150,
+                    "end": 158,
+                    "text": "kulastan"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "kindlasti"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Tänud mõnusa õhtu eest! Atmosfäär oli väga hubane ja soe. Kindlasti külastame teie kodurestorani kunagi veel, kui mitte kõik koos, siis igaüks eraldi :)\nJõudu ja jaksu oma tegemistes, teete seda väga hästi!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "atmosfäär"
+                },
+                "opinion_term": {
+                    "start": 38,
+                    "end": 56,
+                    "text": "väga hubane ja soe"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 83,
+                    "end": 95,
+                    "text": "kodurestoran"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "kindlasti külastame teie"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "tegemised"
+                },
+                "opinion_term": {
+                    "start": 184,
+                    "end": 205,
+                    "text": "teete seda väga hästi"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Tere!\nKõik oli väga super. Väike tagasiside - kuna istusime väljas, siis grillisuits natuke häiris ning jättis ka riietele ebameeldiva lõhna juurde.\nAitäh meeldiva teeninduse ja maistav toidu eest!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 27,
+                    "end": 43,
+                    "text": "Väike tagasiside"
+                },
+                "opinion_term": {
+                    "start": 123,
+                    "end": 147,
+                    "text": "ebameeldiva lõhna juurde"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 6,
+                    "end": 25,
+                    "text": "Kõik oli väga super"
+                },
+                "opinion_term": {
+                    "start": 155,
+                    "end": 197,
+                    "text": "meeldiva teeninduse ja maistav toidu eest!"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Toit ja teenindus olid väga head, kuid ruumide atmosfäär ei tekitanud restorani erilist tunnet. Vaid nagu oleks tegemist lihtsalt söögikohaga.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 47,
+                    "end": 56,
+                    "text": "atmosfäär"
+                },
+                "opinion_term": {
+                    "start": 57,
+                    "end": 94,
+                    "text": "ei tekitanud restorani erilist tunnet"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 39,
+                    "end": 56,
+                    "text": "ruumide atmosfäär"
+                },
+                "opinion_term": {
+                    "start": 57,
+                    "end": 94,
+                    "text": "ei tekitanud restorani erilist tunnet"
+                },
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "review_text": "Läänemaa maitsed olid võrratud. Tuleme kindlasti tagasi teisi maitseid proovima. Eriti tahan tänada selle eest, et minu mee-allergia tõttu oli mesi menüüst välja jäetud. Lisaks tõstan esile pika ajalooga lummavat suveresidentsi ennast kui ka sealt avanevaid kauneid merevaateid,",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 16,
+                    "text": "Läänemaa maitsed"
+                },
+                "opinion_term": {
+                    "start": 22,
+                    "end": 30,
+                    "text": "võrratud"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 120,
+                    "end": 132,
+                    "text": "mee-allergia"
+                },
+                "opinion_term": {
+                    "start": 120,
+                    "end": 138,
+                    "text": "mee-allergia tõttu"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 213,
+                    "end": 226,
+                    "text": "suveresidents"
+                },
+                "opinion_term": {
+                    "start": 204,
+                    "end": 212,
+                    "text": "lummavat"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 266,
+                    "end": 277,
+                    "text": "merevaateid"
+                },
+                "opinion_term": {
+                    "start": 258,
+                    "end": 265,
+                    "text": "kauneid"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Kolmejäiguline menüü oli suurepäraselt koostatud ja toit oli väga professionaalselt valmistatud. Maitsete palett oli täiuslik. Tore, et tagasisidet küsiti veel enne kui lahkusime. Suur tänu!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 15,
+                    "end": 20,
+                    "text": "menüü"
+                },
+                "opinion_term": {
+                    "start": 25,
+                    "end": 48,
+                    "text": "suurepäraselt koostatud"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 52,
+                    "end": 56,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 61,
+                    "end": 95,
+                    "text": "väga professionaalselt valmistatud"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "maitsete palett"
+                },
+                "opinion_term": {
+                    "start": 117,
+                    "end": 125,
+                    "text": "täiuslik"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 136,
+                    "end": 147,
+                    "text": "tagasisidet"
+                },
+                "opinion_term": {
+                    "start": 148,
+                    "end": 154,
+                    "text": "küsiti"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 169,
+                    "end": 178,
+                    "text": "lahkusime"
+                },
+                "opinion_term": {
+                    "start": 160,
+                    "end": 164,
+                    "text": "enne"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 185,
+                    "end": 189,
+                    "text": "tänu"
+                },
+                "opinion_term": {
+                    "start": 25,
+                    "end": 29,
+                    "text": "suur"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Meie arvates interjöör, teenindus ja toit ei käinud kokku. Teenindus \"külm\", kui sinuga tegeleb mitu teenindajat siis on kuidagi kaootiline. Menüü meie jaoks ebahuvitav,eriti magusa osa.",
+        "error": "No JSON object found in the model output.",
+        "raw_output": "Here's the JSON object:\n\n{\n    \"review_text\": \"Meie arvates interjöör, teenindus ja toit ei käinud kokku. Teenindus \"külm\", kui sinuga tegeleb mitu teenindajat siis on kuidagi kaootiline. Menüü meie jaoks ebahuvitav,eriti magusa osa.\",\n    \"triplets\": [\n        {\n            \"aspect_term\": \"interjöör\",\n            \"opinion_term\": \"külm\",\n            \"polarity\": \"negative\"\n        },\n        {\n            \"aspect_term\": \"teenindus\",\n            \"opinion_term\": \"kaootiline\",\n            \"polarity\": \"negative\"\n        },\n        {\n            \"aspect_term\": \"menüü\",\n            \"opinion_term\": \"ebahuvitav\",\n            \"polarity\": \"negative\"\n        }\n    ]\n}\n\n\nNote that the aspect terms are exact substrings from the original review text, and the opinion terms are also exact substrings from the original review text. The polarity is either \"positive\", \"negative\", or \"neutral\", depending on the sentiment expressed in the review."
+    },
+    {
+        "review_text": "Eriti kiideti pikalt küpsetatud seapraadi, sest liha oli tõeliselt pehme ja hästi maitsestatud. Ka kõik teised toidud maitsesid ülihästi ja kõigega jäädi rahule.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 14,
+                    "end": 40,
+                    "text": "pikalt küpsetatud seapraad"
+                },
+                "opinion_term": {
+                    "start": 57,
+                    "end": 94,
+                    "text": "tõeliselt pehme ja hästi maitsestatud"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 104,
+                    "end": 117,
+                    "text": "teised toidud"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "ülimalt maitsesid"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 99,
+                    "end": 103,
+                    "text": "kõik"
+                },
+                "opinion_term": {
+                    "start": 148,
+                    "end": 160,
+                    "text": "jäädi rahule"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "44 EUR menüü on naljanumber. Neljale inimesele 180 EUR eest serveeriti pearoana 1 lihapall koos 50 gr seente ja lusikatäie ubadega. Täiesti uus tase niigi palju nähtud Tallinna restorani tseenil.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 7,
+                    "end": 12,
+                    "text": "menüü"
+                },
+                "opinion_term": {
+                    "start": 16,
+                    "end": 27,
+                    "text": "naljanumber"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 71,
+                    "end": 130,
+                    "text": "pearoana 1 lihapall koos 50 gr seente ja lusikatäie ubadega"
+                },
+                "opinion_term": {
+                    "start": 80,
+                    "end": 130,
+                    "text": "1 lihapall koos 50 gr seente ja lusikatäie ubadega"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Täis"
+                },
+                "opinion_term": {
+                    "start": 140,
+                    "end": 148,
+                    "text": "uus tase"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 149,
+                    "end": 194,
+                    "text": "niigi palju nähtud Tallinna restorani tseenil"
+                },
+                "opinion_term": {
+                    "start": 149,
+                    "end": 194,
+                    "text": "niigi palju nähtud Tallinna restorani tseenil"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "toiduelamus oli ikka keskmisest veidram, mis muidugi ongi taotluslik. aga tuleb ausalt tunnistada, et järgmine kord tuleksin tagasi pigem atmosfääri ja fantastilise kokteilimenüü kui toidu pärast. vaimustava kogemuse pakkus samas hapunuudlite leem :) aitäh!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 11,
+                    "text": "toiduelamus"
+                },
+                "opinion_term": {
+                    "start": 32,
+                    "end": 39,
+                    "text": "veidram"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 138,
+                    "end": 147,
+                    "text": "atmosfäär"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "fantastiline"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 165,
+                    "end": 178,
+                    "text": "kokteilimenüü"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "fantastiline"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 230,
+                    "end": 247,
+                    "text": "hapunuudlite leem"
+                },
+                "opinion_term": {
+                    "start": 197,
+                    "end": 206,
+                    "text": "vaimustav"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Aitäh elamuse eest! Esimest korda külastades saime maitsemenüü ja paaritatud veinidega suurepärase ülevaate Lore Bistroos pakutavast. Kuna ilm soosis, saime seda kõike nautida õues. Kiidame ka meie võluvat ja asjalikku teenindajat Rebecca Viivi Mariet, kui nüüd nimi õigesti meelde jäi.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 51,
+                    "end": 62,
+                    "text": "maitsemenüü"
+                },
+                "opinion_term": {
+                    "start": 87,
+                    "end": 107,
+                    "text": "suurepärase ülevaate"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 66,
+                    "end": 86,
+                    "text": "paaritatud veinidega"
+                },
+                "opinion_term": {
+                    "start": 87,
+                    "end": 107,
+                    "text": "suurepärase ülevaate"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 108,
+                    "end": 132,
+                    "text": "Lore Bistroos pakutavast"
+                },
+                "opinion_term": {
+                    "start": 87,
+                    "end": 107,
+                    "text": "suurepärase ülevaate"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 134,
+                    "end": 149,
+                    "text": "Kuna ilm soosis"
+                },
+                "opinion_term": {
+                    "start": 151,
+                    "end": 180,
+                    "text": "saime seda kõike nautida õues"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 198,
+                    "end": 230,
+                    "text": "võluvat ja asjalikku teenindajat"
+                },
+                "opinion_term": {
+                    "start": 231,
+                    "end": 251,
+                    "text": "Rebecca Viivi Mariet"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Pole kahjuks tükk aega nii halba toiduelamust saanud. Toit oli kuiv, üleküpsetatud ja ei maitsenud üldse. Ei plaani enam sinna restorani minna.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 63,
+                    "end": 104,
+                    "text": "kuiv, üleküpsetatud ja ei maitsenud üldse"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Suured tänud meeldiva ja õdusa õhtu eest restoranis. Jäime väga rahule. Toidud maitsvad, teenindus kiire ja kliendisõbralik. Tuleme kindlasti veel ja soovitame ka sõpradele.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 13,
+                    "end": 20,
+                    "text": "meeldiv"
+                },
+                "opinion_term": {
+                    "start": 25,
+                    "end": 29,
+                    "text": "õdus"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 79,
+                    "end": 87,
+                    "text": "maitsvad"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 89,
+                    "end": 98,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 99,
+                    "end": 104,
+                    "text": "kiire"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 89,
+                    "end": 98,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 108,
+                    "end": 123,
+                    "text": "kliendisõbralik"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 41,
+                    "end": 49,
+                    "text": "restoran"
+                },
+                "opinion_term": {
+                    "start": 150,
+                    "end": 159,
+                    "text": "soovitame"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Teine külastus suve jooksul ja kahjuks mõlemad korras oli mõne toidu kvaliteed väga nõrk. Juunis sõin steik ja eile hamburger mida olen isegi tagasi andnud.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 79,
+                    "end": 88,
+                    "text": "väga nõrk"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 102,
+                    "end": 107,
+                    "text": "steik"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "halb"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 116,
+                    "end": 125,
+                    "text": "hamburger"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "halb"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Olime toreda seltskonnaga, kuid teenindajal oli miski raske mure ja kahjuks sai me laudkond teenindaja isiklikust valust tulenevalt ebameeldivat miimikat registreerida.Teenindus oli küll korrektne,aga nii maitsvaid toite saax serveerida tsipa päikeselisemalt ikkagi !",
+        "triplets": []
+    },
+    {
+        "review_text": "Toidud mis me valisime olid väga maitsvad aga valik oli kasin ja seal oli väga lärmakas, tundus nagu oleks tegemist pubiga. Teenindus oli hea, viisakas ja kiire.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 33,
+                    "end": 41,
+                    "text": "maitsvad"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 46,
+                    "end": 51,
+                    "text": "valik"
+                },
+                "opinion_term": {
+                    "start": 56,
+                    "end": 61,
+                    "text": "kasin"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 138,
+                    "end": 141,
+                    "text": "hea"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 143,
+                    "end": 151,
+                    "text": "viisakas"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 155,
+                    "end": 160,
+                    "text": "kiire"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Wolt tundus olevat prioriteetsem kui lauast teenindus. Ootasime pearooga 45 minutit, pikka ooteaega ei adresseeritud teenindaja poolt kordagi. Samal ajal käis vähemalt 6 kullerit.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 4,
+                    "text": "Wolt"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "pika ooteaega ei adresseeritud teenindaja poolt kordagi"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Toit oli absoluutselt fantastiline, ei juhtu tihti, et mu kaasa täiesti tundmatut rooga proovides vaimustusse satub. Nautisime iga suutäit ja hetke, tuleme kindlasti taas ja taas.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 4,
+                    "text": "Toit"
+                },
+                "opinion_term": {
+                    "start": 22,
+                    "end": 34,
+                    "text": "fantastiline"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 4,
+                    "text": "Toit"
+                },
+                "opinion_term": {
+                    "start": 98,
+                    "end": 115,
+                    "text": "vaimustusse satub"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 4,
+                    "text": "Toit"
+                },
+                "opinion_term": {
+                    "start": 117,
+                    "end": 126,
+                    "text": "Nautisime"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 4,
+                    "text": "Toit"
+                },
+                "opinion_term": {
+                    "start": 127,
+                    "end": 138,
+                    "text": "iga suutäit"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 4,
+                    "text": "Toit"
+                },
+                "opinion_term": {
+                    "start": 142,
+                    "end": 147,
+                    "text": "hetke"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 4,
+                    "text": "Toit"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Tuleme kindlasti taas ja taas"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Laste mängunurk võiks olla suurem. Lotte võiks olla jutukam ja aktiivsem, aga üks abiline kuluks talle kindlasti ära.\nMuidu kõik oli super. Loodan, et kohtume taas!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 15,
+                    "text": "Laste mängunurk"
+                },
+                "opinion_term": {
+                    "start": 27,
+                    "end": 33,
+                    "text": "suurem"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 35,
+                    "end": 40,
+                    "text": "Lotte"
+                },
+                "opinion_term": {
+                    "start": 52,
+                    "end": 72,
+                    "text": "jutukam ja aktiivsem"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 35,
+                    "end": 40,
+                    "text": "Lotte"
+                },
+                "opinion_term": {
+                    "start": 78,
+                    "end": 116,
+                    "text": "üks abiline kuluks talle kindlasti ära"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 118,
+                    "end": 138,
+                    "text": "Muidu kõik oli super"
+                },
+                "opinion_term": {
+                    "start": 133,
+                    "end": 138,
+                    "text": "super"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 151,
+                    "end": 163,
+                    "text": "kohtume taas"
+                },
+                "opinion_term": {
+                    "start": 151,
+                    "end": 163,
+                    "text": "kohtume taas"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Restoran suudab oma maitseelamusega üllatada iga kord! Väga maitsev söök ja Tartu linna kõige romantilisema kohaga! Ootame põnevusega uusi maitseelamusi!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 68,
+                    "end": 72,
+                    "text": "söök"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "väga maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "koht"
+                },
+                "opinion_term": {
+                    "start": 76,
+                    "end": 107,
+                    "text": "Tartu linna kõige romantilisema"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Teenindaja oli väga meeldiv ja professionaalne, kohati ei õnnestunud tema tähelepanu köita nii kiiresti kui soovisime, kuid vastuvõtt ja tervitamine jättis hea mulje.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 10,
+                    "text": "Teenindaja"
+                },
+                "opinion_term": {
+                    "start": 20,
+                    "end": 46,
+                    "text": "meeldiv ja professionaalne"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 124,
+                    "end": 148,
+                    "text": "vastuvõtt ja tervitamine"
+                },
+                "opinion_term": {
+                    "start": 156,
+                    "end": 165,
+                    "text": "hea mulje"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Nagu alati oli Mon Repos tasemel, toidud väga maitsvad. See koht pole kunagi jätnud halva mulje, kindlasti külastan seda veelkord ning soovitan ka teistele.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 34,
+                    "end": 40,
+                    "text": "toidud"
+                },
+                "opinion_term": {
+                    "start": 41,
+                    "end": 54,
+                    "text": "väga maitsvad"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Suurepärane maitseelamus, ei pidanud pettuma ühegi käiguga. Teenindus super, vägagi sõbralikud ning n.ö lihtne - ei ole millegiga üle paisutatud. Jäime kaaslasega väga rahule, soovitame kahe käega!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 60,
+                    "end": 69,
+                    "text": "Teenindus"
+                },
+                "opinion_term": {
+                    "start": 70,
+                    "end": 75,
+                    "text": "super"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 60,
+                    "end": 69,
+                    "text": "Teenindus"
+                },
+                "opinion_term": {
+                    "start": 77,
+                    "end": 94,
+                    "text": "vägagi sõbralikud"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 60,
+                    "end": 69,
+                    "text": "Teenindus"
+                },
+                "opinion_term": {
+                    "start": 100,
+                    "end": 110,
+                    "text": "n.ö lihtne"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 60,
+                    "end": 69,
+                    "text": "Teenindus"
+                },
+                "opinion_term": {
+                    "start": 113,
+                    "end": 144,
+                    "text": "ei ole millegiga üle paisutatud"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 60,
+                    "end": 69,
+                    "text": "Teenindus"
+                },
+                "opinion_term": {
+                    "start": 146,
+                    "end": 174,
+                    "text": "Jäime kaaslasega väga rahule"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 60,
+                    "end": 69,
+                    "text": "Teenindus"
+                },
+                "opinion_term": {
+                    "start": 176,
+                    "end": 196,
+                    "text": "soovitame kahe käega"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Suured tänud fantastilise teeninduse ja maitsva toidu eest. Korduva külastajana veendun üha enam, et Nok Noki tulen ikka ja jälle tagasi. Eriti ka siis, kui vaja külalistele eriti hea mulje jätta. Ja inimesed on Teil kuldaväärt!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 101,
+                    "end": 109,
+                    "text": "Nok Noki"
+                },
+                "opinion_term": {
+                    "start": 13,
+                    "end": 58,
+                    "text": "fantastilise teeninduse ja maitsva toidu eest"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 101,
+                    "end": 109,
+                    "text": "Nok Noki"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "korduva külastajana veendun üha enam"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 101,
+                    "end": 109,
+                    "text": "Nok Noki"
+                },
+                "opinion_term": {
+                    "start": 98,
+                    "end": 136,
+                    "text": "et Nok Noki tulen ikka ja jälle tagasi"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 101,
+                    "end": 109,
+                    "text": "Nok Noki"
+                },
+                "opinion_term": {
+                    "start": 138,
+                    "end": 195,
+                    "text": "Eriti ka siis, kui vaja külalistele eriti hea mulje jätta"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 101,
+                    "end": 109,
+                    "text": "Nok Noki"
+                },
+                "opinion_term": {
+                    "start": 197,
+                    "end": 228,
+                    "text": "Ja inimesed on Teil kuldaväärt!"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Väga tore ja sõbralik teenindus.Telgi ülespanemine suurepärane idee, et saaks samal ajal nautida sooja päikest ning olla tuule eest kaitstud! Teenindaja oli teadlik veinivalikutest/maitsetest ning oskas toitu soovitada.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 22,
+                    "end": 31,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 13,
+                    "end": 21,
+                    "text": "sõbralik"
+                },
+                "polarity": "positiivne"
+            },
+            {
+                "aspect_term": {
+                    "start": 22,
+                    "end": 31,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 157,
+                    "end": 164,
+                    "text": "teadlik"
+                },
+                "polarity": "positiivne"
+            },
+            {
+                "aspect_term": {
+                    "start": 22,
+                    "end": 31,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "oskab"
+                },
+                "polarity": "positiivne"
+            },
+            {
+                "aspect_term": {
+                    "start": 22,
+                    "end": 31,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 209,
+                    "end": 218,
+                    "text": "soovitada"
+                },
+                "polarity": "positiivne"
+            }
+        ]
+    },
+    {
+        "review_text": "Natuke on kahju, et restorani tagumine pool ühildib Maakri ärihoone lobbyga - tekib tunne, et oled kusil hotelli-lobby restos. Aga kõik muu oli hea!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 52,
+                    "end": 75,
+                    "text": "Maakri ärihoone lobbyga"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "tundus"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 20,
+                    "end": 28,
+                    "text": "restoran"
+                },
+                "opinion_term": {
+                    "start": 144,
+                    "end": 147,
+                    "text": "hea"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Fantastilise maitseelamuse sain. Liha oli taevalik ja samuti ka magustoit. Eelnevalt on ka kõik toidud maitsvad olnud, kuid seekord oli lihtsalt Chef’s Kiss!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 33,
+                    "end": 37,
+                    "text": "Liha"
+                },
+                "opinion_term": {
+                    "start": 42,
+                    "end": 50,
+                    "text": "taevalik"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 64,
+                    "end": 73,
+                    "text": "magustoit"
+                },
+                "opinion_term": {
+                    "start": 103,
+                    "end": 111,
+                    "text": "maitsvad"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 69,
+                    "end": 73,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 103,
+                    "end": 111,
+                    "text": "maitsvad"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 145,
+                    "end": 156,
+                    "text": "Chef’s Kiss"
+                },
+                "opinion_term": {
+                    "start": 136,
+                    "end": 144,
+                    "text": "lihtsalt"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Väga meeldiv teenindaja. Suureprane cevice. Pearoad jätsid kuidagi neutraalseks - vist läksid eelroogadega ootused liiga kõrgele. Väga vahva koht. Tuleme veel kunagi kindlasti.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 13,
+                    "end": 23,
+                    "text": "teenindaja"
+                },
+                "opinion_term": {
+                    "start": 5,
+                    "end": 12,
+                    "text": "meeldiv"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 36,
+                    "end": 42,
+                    "text": "cevice"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "suureprane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "pearoad"
+                },
+                "opinion_term": {
+                    "start": 67,
+                    "end": 79,
+                    "text": "neutraalseks"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 141,
+                    "end": 145,
+                    "text": "koht"
+                },
+                "opinion_term": {
+                    "start": 135,
+                    "end": 140,
+                    "text": "vahva"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 141,
+                    "end": 145,
+                    "text": "koht"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "tuleme veel kunagi kindlasti"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Ilus ja avar koht keset kesklinna, hea ja mugav tulla nii jala kui ka autoga.\nHinnad on pisut kõrged, kuid toidu ja teeninduse kvaliteet on kõrge. Sobib nii väiksele kui ka suurele kampale!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 13,
+                    "end": 17,
+                    "text": "koht"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "ilus ja avar"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "hinnad"
+                },
+                "opinion_term": {
+                    "start": 88,
+                    "end": 100,
+                    "text": "pisut kõrged"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 127,
+                    "end": 136,
+                    "text": "kvaliteet"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 116,
+                    "end": 125,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 127,
+                    "end": 136,
+                    "text": "kvaliteet"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "sobib"
+                },
+                "opinion_term": {
+                    "start": 153,
+                    "end": 188,
+                    "text": "nii väiksele kui ka suurele kampale"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Meile meeldis kõik. Toit, teenindus, atmosfäär. Eriti südantsoojendav oli see, et teenindajad laulsid meie laua sünnipäevalapsele ja panid tellitud koogile omalt poolt ka küünla. Aitäh ! Tuleme kindlasti tagasi.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 6,
+                    "end": 13,
+                    "text": "meeldis"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 26,
+                    "end": 35,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 6,
+                    "end": 13,
+                    "text": "meeldis"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 37,
+                    "end": 46,
+                    "text": "atmosfäär"
+                },
+                "opinion_term": {
+                    "start": 6,
+                    "end": 13,
+                    "text": "meeldis"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 82,
+                    "end": 93,
+                    "text": "teenindajad"
+                },
+                "opinion_term": {
+                    "start": 54,
+                    "end": 69,
+                    "text": "südantsoojendav"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "kook"
+                },
+                "opinion_term": {
+                    "start": 54,
+                    "end": 69,
+                    "text": "südantsoojendav"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Ülimalt tore pärastlõunane söömaeg oli meie suure perega. Toit ja teenindus olid esmaklassilised. Eriti täname meie imetoredat, hoolivat, heasoovlikku ja proffi teenindajat, kes tegi meie olemise eriti mõnusaks ja eriliseks. Täname siiralt!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 81,
+                    "end": 96,
+                    "text": "esmaklassilised"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 66,
+                    "end": 75,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 116,
+                    "end": 160,
+                    "text": "imetoredat, hoolivat, heasoovlikku ja proffi"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Teenindaja oli väga meeldiv ja sõbralik, toit oli IMELINE!! Võrreldes eelrooga (tuunikala tartar) ja pearooga (kammkarbid) - pearoog jäi selle kõrval kuidagi väikseks, aga maitsed olid suussulavad!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 70,
+                    "end": 77,
+                    "text": "eelroog"
+                },
+                "opinion_term": {
+                    "start": 185,
+                    "end": 196,
+                    "text": "suussulavad"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 101,
+                    "end": 108,
+                    "text": "pearoog"
+                },
+                "opinion_term": {
+                    "start": 185,
+                    "end": 196,
+                    "text": "suussulavad"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 101,
+                    "end": 108,
+                    "text": "pearoog"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "väike"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Lahepere villa on mõnus ubane koht, oled oodatud sinna!\nPererahvas on väga äge ,oli tunne nagu tuleksid vanade sõprade juurde!\nToit on oli kõrgem kvaliteet!\nKindlasti külastan jälle!!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 14,
+                    "text": "Lahepere villa"
+                },
+                "opinion_term": {
+                    "start": 18,
+                    "end": 34,
+                    "text": "mõnus ubane koht"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 56,
+                    "end": 66,
+                    "text": "Pererahvas"
+                },
+                "opinion_term": {
+                    "start": 70,
+                    "end": 78,
+                    "text": "väga äge"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 127,
+                    "end": 131,
+                    "text": "Toit"
+                },
+                "opinion_term": {
+                    "start": 139,
+                    "end": 155,
+                    "text": "kõrgem kvaliteet"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 157,
+                    "end": 183,
+                    "text": "Kindlasti külastan jälle!!"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "kindlasti"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Restorani külastus ja toit oli muidu iseenesest väga maitsev. Kahjuks tegi kurvaks see, et olin küsinud spetsiaalselt kas oleks võimalik saada küünalt kuna käisime sünnipäeva tähistamas ning mulle vastati meili teel jah, kuid kahjuks küünalt koogil ei ilmunud.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 10,
+                    "end": 18,
+                    "text": "külastus"
+                },
+                "opinion_term": {
+                    "start": 31,
+                    "end": 60,
+                    "text": "muidu iseenesest väga maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 22,
+                    "end": 26,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 31,
+                    "end": 60,
+                    "text": "muidu iseenesest väga maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 143,
+                    "end": 149,
+                    "text": "küünal"
+                },
+                "opinion_term": {
+                    "start": 249,
+                    "end": 259,
+                    "text": "ei ilmunud"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Meie jaoks seni veel avastamata koht, aga saime väga meeldiva toiduelamuse, soovitame kindlasti sõpradele ja plaanime suve jooksul uuesti külastada!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 32,
+                    "end": 36,
+                    "text": "koht"
+                },
+                "opinion_term": {
+                    "start": 53,
+                    "end": 74,
+                    "text": "meeldiva toiduelamuse"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 53,
+                    "end": 61,
+                    "text": "meeldiva"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 32,
+                    "end": 36,
+                    "text": "koht"
+                },
+                "opinion_term": {
+                    "start": 96,
+                    "end": 105,
+                    "text": "sõpradele"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 32,
+                    "end": 36,
+                    "text": "koht"
+                },
+                "opinion_term": {
+                    "start": 131,
+                    "end": 147,
+                    "text": "uuesti külastada"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Meie väikese tiimi nn ärilõuna oli super :) Teenindus oli väga sõbralik ja meeldiv, toitudest saime hea ülevaate. Ning muidugi oligi väga maitsev toit, mis sobis kogu meie seltskonnale. :) Kindlasti soovitame ning tuleme ka ise veel...",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 44,
+                    "end": 53,
+                    "text": "Teenindus"
+                },
+                "opinion_term": {
+                    "start": 58,
+                    "end": 82,
+                    "text": "väga sõbralik ja meeldiv"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Toit"
+                },
+                "opinion_term": {
+                    "start": 133,
+                    "end": 145,
+                    "text": "väga maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Seltskond"
+                },
+                "opinion_term": {
+                    "start": 156,
+                    "end": 161,
+                    "text": "sobis"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Soovitus"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "kindlasti"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Palun vaadake kriitiliselt üle oma muusikavalik ja selle valjus. Aegajalt oli üsna häirivalt vali see, kuidas mingi naislaulja pardihäälega krääksus. Laua teise otsas olevaid inimesi oli raske kuulda. Soovitaks pigem mingit instrumentaalmuusikat, mitte laulusid. Midagi sellist näiteks https://www.youtube.com/watch?v=53nwh1aHCU8&ab_channel=RelaxCafeMusic",
+        "triplets": []
+    },
+    {
+        "review_text": "Tore sõbralik teenindus- näha on, et kunded on restoranis oodatud. Pisut võiks enam tähelepanu pöörata laudade puhtusele- alati ei piisa ainult käega üle laua tõmbamisest. Usun, et meie nähtu oli erand.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Teenindus"
+                },
+                "opinion_term": {
+                    "start": 0,
+                    "end": 13,
+                    "text": "Tore sõbralik"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Puhtus"
+                },
+                "opinion_term": {
+                    "start": 67,
+                    "end": 102,
+                    "text": "Pisut võiks enam tähelepanu pöörata"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Jäime väga rahule! Jõudsime veidi enne avamist, aga OKO pere lasi armsalt enne 12st sisse, väga sõbralik teenindus ja maitsvad toidud. Soovitan!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 18,
+                    "text": "Jäime väga rahule!"
+                },
+                "opinion_term": {
+                    "start": 6,
+                    "end": 18,
+                    "text": "väga rahule!"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 19,
+                    "end": 46,
+                    "text": "Jõudsime veidi enne avamist"
+                },
+                "opinion_term": {
+                    "start": 91,
+                    "end": 114,
+                    "text": "väga sõbralik teenindus"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 19,
+                    "end": 46,
+                    "text": "Jõudsime veidi enne avamist"
+                },
+                "opinion_term": {
+                    "start": 118,
+                    "end": 133,
+                    "text": "maitsvad toidud"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 135,
+                    "end": 144,
+                    "text": "Soovitan!"
+                },
+                "opinion_term": {
+                    "start": 135,
+                    "end": 144,
+                    "text": "Soovitan!"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Tere,\n\nTäname teid südamest kogu seltskonnaga ! Kõik jäime väga rahule nii toidu kui ka teenindusega.\nOli armas ja hubane .\n\nKülastame teid kindlasti ka edaspidi !",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 59,
+                    "end": 70,
+                    "text": "väga rahule"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 88,
+                    "end": 97,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 59,
+                    "end": 70,
+                    "text": "väga rahule"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 106,
+                    "end": 121,
+                    "text": "armas ja hubane"
+                },
+                "opinion_term": {
+                    "start": 106,
+                    "end": 121,
+                    "text": "armas ja hubane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "külastame teid kindlasti ka edaspidi"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "külastame teid kindlasti ka edaspidi"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Lahepere villa asukoht, ruum, inimesed ja toidud olid lihtsalt suurepärased, ka inimesele, kes liha ei söö. Laheper villa sobib suurpäraselt ka seminari ja koolituse läbiviimiseks. Tänan väega!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 22,
+                    "text": "Lahepere villa asukoht"
+                },
+                "opinion_term": {
+                    "start": 54,
+                    "end": 75,
+                    "text": "lihtsalt suurepärased"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Lahepere villa ruum"
+                },
+                "opinion_term": {
+                    "start": 54,
+                    "end": 75,
+                    "text": "lihtsalt suurepärased"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Lahepere villa inimesed"
+                },
+                "opinion_term": {
+                    "start": 54,
+                    "end": 75,
+                    "text": "lihtsalt suurepärased"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Lahepere villa toidud"
+                },
+                "opinion_term": {
+                    "start": 54,
+                    "end": 75,
+                    "text": "lihtsalt suurepärased"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Lahepere villa sobib seminari ja koolituse läbiviimiseks"
+                },
+                "opinion_term": {
+                    "start": 128,
+                    "end": 140,
+                    "text": "suurpäraselt"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Jäime väga rahule. Nagu ikka oli toit väga maitsev ja teenindus super.\n\nOleme kurvad, et te meie lähedalt ära kolite.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 33,
+                    "end": 37,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 38,
+                    "end": 50,
+                    "text": "väga maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 54,
+                    "end": 63,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 64,
+                    "end": 69,
+                    "text": "super"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Õhtusöök vanaisaga võiks kesta kauem, nii meeldis atmosfäär. Hubane, kesklinnas, vaikne samas kaasaegne. Toit ülimaitsev ning joogid kenasti sobisid. Oli tore, sooviks korrata.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 50,
+                    "end": 59,
+                    "text": "atmosfäär"
+                },
+                "opinion_term": {
+                    "start": 38,
+                    "end": 49,
+                    "text": "nii meeldis"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "hubane"
+                },
+                "opinion_term": {
+                    "start": 61,
+                    "end": 67,
+                    "text": "Hubane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 69,
+                    "end": 79,
+                    "text": "kesklinnas"
+                },
+                "opinion_term": {
+                    "start": 61,
+                    "end": 67,
+                    "text": "Hubane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 81,
+                    "end": 103,
+                    "text": "vaikne samas kaasaegne"
+                },
+                "opinion_term": {
+                    "start": 61,
+                    "end": 67,
+                    "text": "Hubane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 110,
+                    "end": 120,
+                    "text": "ülimaitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 126,
+                    "end": 132,
+                    "text": "joogid"
+                },
+                "opinion_term": {
+                    "start": 133,
+                    "end": 148,
+                    "text": "kenasti sobisid"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "oli tore"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "oli tore"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 160,
+                    "end": 175,
+                    "text": "sooviks korrata"
+                },
+                "opinion_term": {
+                    "start": 160,
+                    "end": 175,
+                    "text": "sooviks korrata"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Toit oli väga maitsev, teenindus kiire ja tähelepanelik, interjöör rahulik ja kaunis, meeldiv vaikne muusika, mis ei häirinud vestlust.\nOleme tänulikud ilusa õhtu eest!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 4,
+                    "text": "Toit"
+                },
+                "opinion_term": {
+                    "start": 9,
+                    "end": 21,
+                    "text": "väga maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Teenindus"
+                },
+                "opinion_term": {
+                    "start": 33,
+                    "end": 55,
+                    "text": "kiire ja tähelepanelik"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Interjöör"
+                },
+                "opinion_term": {
+                    "start": 67,
+                    "end": 84,
+                    "text": "rahulik ja kaunis"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Vaikne muusika"
+                },
+                "opinion_term": {
+                    "start": 86,
+                    "end": 93,
+                    "text": "meeldiv"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Õhtu"
+                },
+                "opinion_term": {
+                    "start": 152,
+                    "end": 156,
+                    "text": "ilus"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Tähistasime sõbra sünnipäeva. Toit oli väga hea ja mõnus atmosfäär. Parim osa oli siis, kui meie kelner korraldas toreda üllatuse, kui Rootsi koor laulis ka õnnitluslaulu samal ajal kui kelner tõi koogitüki!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 57,
+                    "end": 66,
+                    "text": "atmosfäär"
+                },
+                "opinion_term": {
+                    "start": 51,
+                    "end": 56,
+                    "text": "mõnus"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 39,
+                    "end": 47,
+                    "text": "väga hea"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 97,
+                    "end": 103,
+                    "text": "kelner"
+                },
+                "opinion_term": {
+                    "start": 114,
+                    "end": 129,
+                    "text": "toreda üllatuse"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Suurepärased maitsed. Eriline elamus oli PÖÖRANE ŠOKOLAADISFÄÄR, mis tekitas tõelise vau efekti. Paras jagada mitme inimese peale. Kiitus kokale ja toredale teenindajale.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 13,
+                    "end": 20,
+                    "text": "maitsed"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "suurepärased"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "šokolaadisfäär"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "pöörane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 30,
+                    "end": 36,
+                    "text": "elamus"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "eriline"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 138,
+                    "end": 144,
+                    "text": "kokale"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "kiitus"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 157,
+                    "end": 169,
+                    "text": "teenindajale"
+                },
+                "opinion_term": {
+                    "start": 148,
+                    "end": 156,
+                    "text": "toredale"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Jäime õhtuga väga rahule. Kõik oli tõesti suurepärane, teenindaja oli väga asjatundlik ja meeldiv, toit oli väga maitsev. Kindlasti külastan edaspidi ja soovitan teistelegi.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 99,
+                    "end": 103,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 108,
+                    "end": 120,
+                    "text": "väga maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 55,
+                    "end": 65,
+                    "text": "teenindaja"
+                },
+                "opinion_term": {
+                    "start": 70,
+                    "end": 97,
+                    "text": "väga asjatundlik ja meeldiv"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "kõik"
+                },
+                "opinion_term": {
+                    "start": 42,
+                    "end": 53,
+                    "text": "suurepärane"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Teenindus oli kehva (toodi toidud lauda, aga kaks korda unustati ühele inimesele toomata roog) ning veis ei olnud hästi tehtud, muidu oli hästi.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 9,
+                    "text": "Teenindus"
+                },
+                "opinion_term": {
+                    "start": 14,
+                    "end": 19,
+                    "text": "kehva"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "Veis"
+                },
+                "opinion_term": {
+                    "start": 105,
+                    "end": 126,
+                    "text": "ei olnud hästi tehtud"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Teenindaja oskused puudulikud, ilmselt õpetamata.. hajevil, ei toonud veeklaase, saia. Prantsuse shampust serveeriti veiniklaasiga, lõhkus taldriku. Tundus et eesti keel oli probleemiks jne.\nPasta oli söökla tasemel. Paneeritud liha käis kah.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 0,
+                    "end": 18,
+                    "text": "Teenindaja oskused"
+                },
+                "opinion_term": {
+                    "start": 19,
+                    "end": 29,
+                    "text": "puudulikud"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 217,
+                    "end": 232,
+                    "text": "Paneeritud liha"
+                },
+                "opinion_term": {
+                    "start": 233,
+                    "end": 241,
+                    "text": "käis kah"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Mul ei jää muud üle kui kõigele panna 5*.\nToit oli super ja teenindus oli super. Suur aitäh Jelenale ja Vladimirile tundsime tõesti hoolitsetult. Soovitan kindlasti sõpradele!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 51,
+                    "end": 56,
+                    "text": "super"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 60,
+                    "end": 69,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 51,
+                    "end": 56,
+                    "text": "super"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 86,
+                    "end": 91,
+                    "text": "aitäh"
+                },
+                "opinion_term": {
+                    "start": 116,
+                    "end": 144,
+                    "text": "tundsime tõesti hoolitsetult"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "soovitan"
+                },
+                "opinion_term": {
+                    "start": 155,
+                    "end": 174,
+                    "text": "kindlasti sõpradele"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "-Esimesena tuli pearoog, supp tuli hiljem.\n-Mu lemmik šampanja oli otsas.\n-Või ja leib küsisime ise, kui toit juba oli laua peal.\n-Suflee sees oli vedelik (üks minut ahjus jäi puudu).\n+Kammkarbid olid mega head!\n+Interjöör ja avatud kook ilus.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 25,
+                    "end": 29,
+                    "text": "supp"
+                },
+                "opinion_term": {
+                    "start": 44,
+                    "end": 72,
+                    "text": "Mu lemmik šampanja oli otsas"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "või ja leib"
+                },
+                "opinion_term": {
+                    "start": 75,
+                    "end": 128,
+                    "text": "Või ja leib küsisime ise, kui toit juba oli laua peal"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "suflee"
+                },
+                "opinion_term": {
+                    "start": 131,
+                    "end": 182,
+                    "text": "Suflee sees oli vedelik (üks minut ahjus jäi puudu)"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "kammkarbid"
+                },
+                "opinion_term": {
+                    "start": 185,
+                    "end": 211,
+                    "text": "Kammkarbid olid mega head!"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "interjöör ja avatud kook"
+                },
+                "opinion_term": {
+                    "start": 213,
+                    "end": 242,
+                    "text": "Interjöör ja avatud kook ilus"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Teenindus toimis kuni laekus rohkem rahvast, pearoog serveeriti külmalt, ilma eelroata oleks pearoa ports napiks jäänud ja kvaliteedi/hinna suhe ei olnud paigas, üldmulje kesine.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "toimib"
+                },
+                "polarity": "neutral"
+            },
+            {
+                "aspect_term": {
+                    "start": 45,
+                    "end": 52,
+                    "text": "pearoog"
+                },
+                "opinion_term": {
+                    "start": 53,
+                    "end": 63,
+                    "text": "serveeriti"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 45,
+                    "end": 52,
+                    "text": "pearoog"
+                },
+                "opinion_term": {
+                    "start": 64,
+                    "end": 71,
+                    "text": "külmalt"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 45,
+                    "end": 52,
+                    "text": "pearoog"
+                },
+                "opinion_term": {
+                    "start": 78,
+                    "end": 86,
+                    "text": "eelroata"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 45,
+                    "end": 52,
+                    "text": "pearoog"
+                },
+                "opinion_term": {
+                    "start": 100,
+                    "end": 105,
+                    "text": "ports"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 45,
+                    "end": 52,
+                    "text": "pearoog"
+                },
+                "opinion_term": {
+                    "start": 106,
+                    "end": 112,
+                    "text": "napiks"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 45,
+                    "end": 52,
+                    "text": "pearoog"
+                },
+                "opinion_term": {
+                    "start": 123,
+                    "end": 144,
+                    "text": "kvaliteedi/hinna suhe"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 162,
+                    "end": 170,
+                    "text": "üldmulje"
+                },
+                "opinion_term": {
+                    "start": 171,
+                    "end": 177,
+                    "text": "kesine"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Suurepärane \"maailmalõpu\" restoran. Sellist atmosfääri juba naljalt Eestis mujal ei kohta. Lisaks suurepärane värskest kohalikust toorainest toit ja meeldivad teenindajad.",
+        "error": "No JSON object found in the model output.",
+        "raw_output": "Here's the JSON output:\n\n{\n    \"review_text\": \"Suurepärane \"maailmalõpu\" restoran. Sellist atmosfääri juba naljalt Eestis mujal ei kohta. Lisaks suurepärane värskest kohalikust toorainest toit ja meeldivad teenindajad.\",\n    \"triplets\": [\n        {\n            \"aspect_term\": \"atmosfäär\",\n            \"opinion_term\": \"Sellist atmosfääri juba naljalt Eestis mujal ei kohta\",\n            \"polarity\": \"positive\"\n        },\n        {\n            \"aspect_term\": \"toit\",\n            \"opinion_term\": \"suurepärane värskest kohalikust toorainest\",\n            \"polarity\": \"positive\"\n        },\n        {\n            \"aspect_term\": \"teenindajad\",\n            \"opinion_term\": \"meeldivad\",\n            \"polarity\": \"positive\"\n        }\n    ]\n}\n\nNote that the JSON format is a way to structure data in a way that is easy for computers to read and write. It uses a specific syntax to define the structure of the data, and it uses key-value pairs to store information. In this case, the JSON format is used to store the review text and the triplets of aspect terms, opinion terms, and polarities."
+    },
+    {
+        "review_text": "Väga-väga äge elamus. Koht ise, interjöör, söök - nii põnevad maitsekooslused, suhtlus ja inimesed - kõik on no nii viimase peal. Tuleme veel :)",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "koht"
+                },
+                "opinion_term": {
+                    "start": 50,
+                    "end": 77,
+                    "text": "nii põnevad maitsekooslused"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "koht"
+                },
+                "opinion_term": {
+                    "start": 79,
+                    "end": 98,
+                    "text": "suhtlus ja inimesed"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "koht"
+                },
+                "opinion_term": {
+                    "start": 101,
+                    "end": 128,
+                    "text": "kõik on no nii viimase peal"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "koht"
+                },
+                "opinion_term": {
+                    "start": 130,
+                    "end": 141,
+                    "text": "Tuleme veel"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Tuleb tagasi tulla! Peatse taaskohtumiseni ja sel korral siis juba restorani poolele mitte lihtsalt Pühapäevasele brunchile.\n\nVäga sümpaatne restoran koos oma kollektiiviga. Super teenindus, mõnus vaade, tuuline ilm ei sega restorani külastamist.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 67,
+                    "end": 75,
+                    "text": "restoran"
+                },
+                "opinion_term": {
+                    "start": 131,
+                    "end": 140,
+                    "text": "sümpaatne"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 180,
+                    "end": 189,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "super"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 197,
+                    "end": 202,
+                    "text": "vaade"
+                },
+                "opinion_term": {
+                    "start": 191,
+                    "end": 196,
+                    "text": "mõnus"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 67,
+                    "end": 75,
+                    "text": "restoran"
+                },
+                "opinion_term": {
+                    "start": 159,
+                    "end": 169,
+                    "text": "kollektiiv"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 67,
+                    "end": 75,
+                    "text": "restoran"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "külastamine"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "jäime väga rahule. Kiidusônad teenindajale, kahjuke ei mäleta nime, aga just sellist tähelepanelikkust ja omamoodi dikreetsust toon esile ja hindan kǒrgelt. Aitäh!",
+        "triplets": []
+    },
+    {
+        "review_text": "Super-meeldiv teenindus, väga sümpaatne ja professionaalne noorhärra - veinide kohta saime ammendavad selgitused. Olime kuuese seltskonnaga ja kõik jäime ülivõrdes rahule!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 14,
+                    "end": 23,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 6,
+                    "end": 13,
+                    "text": "meeldiv"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 59,
+                    "end": 68,
+                    "text": "noorhärra"
+                },
+                "opinion_term": {
+                    "start": 30,
+                    "end": 39,
+                    "text": "sümpaatne"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 71,
+                    "end": 84,
+                    "text": "veinide kohta"
+                },
+                "opinion_term": {
+                    "start": 91,
+                    "end": 112,
+                    "text": "ammendavad selgitused"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "seltskond"
+                },
+                "opinion_term": {
+                    "start": 120,
+                    "end": 126,
+                    "text": "kuuese"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 164,
+                    "end": 170,
+                    "text": "rahule"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "jääme"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Kanalisatsiooni lõhnad, laud seisis kohas kus oli ilusti nähtav prügi- ja nõudepesuga toimetamine. Lisaks söögilaud äärmisel ebasobilik 4 külastajale . Tänud kokkale šokolaadi fondanti eest.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 106,
+                    "end": 115,
+                    "text": "söögilaud"
+                },
+                "opinion_term": {
+                    "start": 116,
+                    "end": 135,
+                    "text": "äärmisel ebasobilik"
+                },
+                "polarity": "negative"
+            },
+            {
+                "aspect_term": {
+                    "start": 158,
+                    "end": 162,
+                    "text": "kokk"
+                },
+                "opinion_term": {
+                    "start": 166,
+                    "end": 189,
+                    "text": "šokolaadi fondanti eest"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Ülimalt sõbralik teenindus, vahva väike lastetuba ning meeldivad maitseelamused tegid mu sünnipäeva oma kõige kallimate seltsis suurepäraseks. SUUR aitäh! Tulen kindlasti peagi jälle. Näiteks ilusa ilmaga imekauni lilleaiaga terrassile.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 8,
+                    "end": 16,
+                    "text": "sõbralik"
+                },
+                "opinion_term": {
+                    "start": 8,
+                    "end": 16,
+                    "text": "sõbralik"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 40,
+                    "end": 49,
+                    "text": "lastetuba"
+                },
+                "opinion_term": {
+                    "start": 55,
+                    "end": 62,
+                    "text": "meeldiv"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 65,
+                    "end": 79,
+                    "text": "maitseelamused"
+                },
+                "opinion_term": {
+                    "start": 55,
+                    "end": 64,
+                    "text": "meeldivad"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 89,
+                    "end": 98,
+                    "text": "sünnipäev"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "suurepärane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 148,
+                    "end": 153,
+                    "text": "aitäh"
+                },
+                "opinion_term": {
+                    "start": 128,
+                    "end": 132,
+                    "text": "suur"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 171,
+                    "end": 176,
+                    "text": "peagi"
+                },
+                "opinion_term": {
+                    "start": 161,
+                    "end": 170,
+                    "text": "kindlasti"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 192,
+                    "end": 204,
+                    "text": "ilusa ilmaga"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "imekaunis"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 225,
+                    "end": 232,
+                    "text": "terrass"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "imekaunis"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Tegu oli esimese veiniõhtusöögiga, mis õnnestus väga hästi. Kõik oli väga maitsev. Kuna käike oli päris palju, siis kogused oleks võinud olla pisut väiksemad. Muidu väga meeldis ja võiksite korraldada taolisi sündmusi ka edaspidi. Edu teile!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "veiniõhtusöök"
+                },
+                "opinion_term": {
+                    "start": 69,
+                    "end": 81,
+                    "text": "väga maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 116,
+                    "end": 123,
+                    "text": "kogused"
+                },
+                "opinion_term": {
+                    "start": 142,
+                    "end": 157,
+                    "text": "pisut väiksemad"
+                },
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "review_text": "Mina isiklikult sooviksin et toidu kõrval oleks väljatoodud selle koostis või vähemalt selle nimetus et võiksin järeldada kas see võiks mulle sobida.",
+        "triplets": []
+    },
+    {
+        "review_text": "Väga maitsvad söögid, suurepärane teenindus. Õhkkond väga armas. Ja kokteilid muidugi head. Lastele meeldisid kõrred ja kardemoniga jäätis. Aitäh mõnusa sünnipäevaelamuse eest. Tehke endale pai ja särtsakat uut aastat.",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 14,
+                    "end": 20,
+                    "text": "söögid"
+                },
+                "opinion_term": {
+                    "start": 5,
+                    "end": 13,
+                    "text": "maitsvad"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 34,
+                    "end": 43,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 22,
+                    "end": 33,
+                    "text": "suurepärane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "õhkkond"
+                },
+                "opinion_term": {
+                    "start": 58,
+                    "end": 63,
+                    "text": "armas"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 68,
+                    "end": 77,
+                    "text": "kokteilid"
+                },
+                "opinion_term": {
+                    "start": 86,
+                    "end": 90,
+                    "text": "head"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 110,
+                    "end": 116,
+                    "text": "kõrred"
+                },
+                "opinion_term": {
+                    "start": 100,
+                    "end": 109,
+                    "text": "meeldisid"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 132,
+                    "end": 138,
+                    "text": "jäätis"
+                },
+                "opinion_term": {
+                    "start": 120,
+                    "end": 131,
+                    "text": "kardemoniga"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 153,
+                    "end": 169,
+                    "text": "sünnipäevaelamus"
+                },
+                "opinion_term": {
+                    "start": 146,
+                    "end": 151,
+                    "text": "mõnus"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "uuel aastal"
+                },
+                "opinion_term": {
+                    "start": 197,
+                    "end": 206,
+                    "text": "särtsakat"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Alati on teie juurde hea tulla. Laua broneerimine on lihtne ja kiire. Interjöör hubane ja toit alati ootuspäraselt maitsev.\nKui vähegi võimalik, siis võiksite tuua joogikaardile ka alkoholivaba šampanja pokaaliga ostmise võimaluse ning suuremat valikut mokteile. :)",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "interjöör"
+                },
+                "opinion_term": {
+                    "start": 80,
+                    "end": 86,
+                    "text": "hubane"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 90,
+                    "end": 94,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 101,
+                    "end": 122,
+                    "text": "ootuspäraselt maitsev"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "joogikaart"
+                },
+                "opinion_term": {
+                    "start": 181,
+                    "end": 229,
+                    "text": "alkoholivaba šampanja pokaaliga ostmise võimalus"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "joogikaart"
+                },
+                "opinion_term": {
+                    "start": 236,
+                    "end": 261,
+                    "text": "suuremat valikut mokteile"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Lihtsalt võrratu! Kõik oli nii hästi läbimõeldud ja teostatud: alates vastuvõtust restorani uksel, kogu menüü ja joogid sinna juurde, väga mõnus jalutuskäik söökikordade keskel, teenindajate suhtlus, atmosfäär ... kõik kuni lõpuni välja. Parim elamus!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 214,
+                    "end": 218,
+                    "text": "kõik"
+                },
+                "opinion_term": {
+                    "start": 27,
+                    "end": 61,
+                    "text": "nii hästi läbimõeldud ja teostatud"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 70,
+                    "end": 97,
+                    "text": "vastuvõtust restorani uksel"
+                },
+                "opinion_term": {
+                    "start": 134,
+                    "end": 176,
+                    "text": "väga mõnus jalutuskäik söökikordade keskel"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 99,
+                    "end": 119,
+                    "text": "kogu menüü ja joogid"
+                },
+                "opinion_term": {
+                    "start": 134,
+                    "end": 176,
+                    "text": "väga mõnus jalutuskäik söökikordade keskel"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 178,
+                    "end": 198,
+                    "text": "teenindajate suhtlus"
+                },
+                "opinion_term": {
+                    "start": 134,
+                    "end": 176,
+                    "text": "väga mõnus jalutuskäik söökikordade keskel"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 200,
+                    "end": 209,
+                    "text": "atmosfäär"
+                },
+                "opinion_term": {
+                    "start": 134,
+                    "end": 176,
+                    "text": "väga mõnus jalutuskäik söökikordade keskel"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 214,
+                    "end": 236,
+                    "text": "kõik kuni lõpuni välja"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "parim elamus!"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "parim elamus!"
+                },
+                "opinion_term": {
+                    "start": -1,
+                    "end": -1,
+                    "text": "parim elamus!"
+                },
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "review_text": "Täname kaaslasega imelise õhtu eest! Kogu atmosfäär, toit ja teenindus olid suurepärased. Südame tegi väga soojaks ka meile tehtud üllatus. Eriliselt tooksin välja majahaldja(nime kahjuks ei mäleta), tema tehtud mõisatuur oli nii soe ja armas, nagu ta isegi. Aitäh ja tuleme kindlasti tagasi!",
+        "triplets": [
+            {
+                "aspect_term": {
+                    "start": 42,
+                    "end": 51,
+                    "text": "atmosfäär"
+                },
+                "opinion_term": {
+                    "start": 76,
+                    "end": 88,
+                    "text": "suurepärased"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 53,
+                    "end": 57,
+                    "text": "toit"
+                },
+                "opinion_term": {
+                    "start": 76,
+                    "end": 88,
+                    "text": "suurepärased"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 61,
+                    "end": 70,
+                    "text": "teenindus"
+                },
+                "opinion_term": {
+                    "start": 76,
+                    "end": 88,
+                    "text": "suurepärased"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 131,
+                    "end": 138,
+                    "text": "üllatus"
+                },
+                "opinion_term": {
+                    "start": 102,
+                    "end": 114,
+                    "text": "väga soojaks"
+                },
+                "polarity": "positive"
+            },
+            {
+                "aspect_term": {
+                    "start": 164,
+                    "end": 174,
+                    "text": "majahaldja"
+                },
+                "opinion_term": {
+                    "start": 230,
+                    "end": 242,
+                    "text": "soe ja armas"
+                },
+                "polarity": "positive"
+            }
+        ]
+    }
+]
