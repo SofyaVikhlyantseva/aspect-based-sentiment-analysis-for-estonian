@@ -85,9 +85,13 @@ module load CUDA/12.2
 conda create -n eurollm_env_new python=3.10 -y
 conda activate eurollm_env_new
 
-pip install torch xformers vllm
+pip install torch==2.1.2
+pip install xformers==0.0.23.post1
+pip install vllm==0.3.2
 pip install huggingface_hub transformers regex pandas tqdm wandb
 ```
+See full requirements in `requirements.txt`.
+
 #### Running LLM jobs:
 1. Navigate to a specific experiment subfolder in llm_experiments/eurollm-9b/
 2. Submit a job with:
