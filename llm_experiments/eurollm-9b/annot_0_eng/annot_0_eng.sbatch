@@ -22,4 +22,4 @@ conda activate eurollm_env_new
 export WANDB_API_KEY=a40c76014327526b893781cfa1402f80189458e2
 
 # === .py-script ===
-python eurollm_annot_0_eng.py
+python annot_0_eng.py
