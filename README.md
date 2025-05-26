@@ -47,7 +47,7 @@ Experiments using **Large Language Models (LLMs)**.
 - Two subdirectories:
   - `eurollm-9b/` — working experiments
   - `gemma-3/` — **not used in paper** due to incompatibility issues on Charisma (library version conflicts and misconfigured `config.json`)
-- Each model directory contains subfolders named using this pattern: basic/annot_N_(adj)_eng/est,
+- Each model directory contains subfolders named using this pattern: `basic/annot_N_(adj)_eng/est`,
 where:
 - `basic` / `annot`: prompt type (basic instruction or full annotation guidelines)
 - `N`: number of in-context examples (0–5)
