@@ -99,7 +99,7 @@ See full requirements in `requirements.txt`.
 sbatch your_script.sbatch
 ```
 Model predictions will be saved to the corresponding .json file.
-To evaluate results, compare model outputs against gold annotations in output_val.json or output_corrected.json using metrics_function.ipynb.
+To evaluate results, compare model outputs against gold annotations in output_corrected.json using metrics_function.ipynb.
 
 ## Credits
 Research supervisor — Eduard Klyshinsky, Associate Professor at the School of Linguistics
