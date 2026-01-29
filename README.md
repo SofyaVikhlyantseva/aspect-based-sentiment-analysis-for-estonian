@@ -1,6 +1,6 @@
 # Aspect-Based Sentiment Analysis for Restaurant Reviews in Estonian
 
-This repository contains the code, dataset, and evaluation scripts for a term paper project focused on **Aspect-Based Sentiment Analysis (ABSA)** in the **low-resource setting** of the Estonian language. We apply and compare two approaches:  
+This repository contains the code, dataset, and evaluation scripts for a project focused on **Aspect-Based Sentiment Analysis (ABSA)** in the **low-resource setting** of the Estonian language. We apply and compare two approaches:  
 1. an **unsupervised rule-based model**, and  
 2. a **Large Language Model (LLM)**-based method using **EuroLLM-9B**.
 
@@ -100,8 +100,3 @@ sbatch your_script.sbatch
 ```
 Model predictions will be saved to the corresponding .json file.
 To evaluate results, compare model outputs against gold annotations in output_corrected.json using metrics_function.ipynb.
-
-## Credits
-Research supervisor — Eduard Klyshinsky, Associate Professor at the School of Linguistics
-
-Research advisor — Anna Aksenova, NLP Researcher
